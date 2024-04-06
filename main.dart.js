@@ -74412,7 +74412,7 @@ gC(a){var s=this.a,r=s[0],q=s[1],p=s[2]
 s=s[3]
 return Math.sqrt(r*r+q*q+p*p+s*s)}}
 A.F7.prototype={
-P(a){return new A.uP(B.FP,"Flutter Demo",A.xq(null,A.apq(B.a8,B.Fv),!0),null)}}
+P(a){return new A.uP(B.FP,"Web View Icon Helper",A.xq(null,A.apq(B.a8,B.Fv),!0),null)}}
 A.v1.prototype={
 an(){return new A.Lr(B.k)}}
 A.Lr.prototype={
